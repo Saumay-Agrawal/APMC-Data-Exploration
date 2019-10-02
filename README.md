@@ -111,6 +111,3 @@ This is merely a summary of the approach and methodology used to reach the objec
 * Similarly analysis can be done for the other commodities also.
 
 <br />
-
-### Endnotes
-This was a very fun task and I learned alot while doing it, specially about the timeseries analysis and manipulation using python. I also realised that it is very easy to perform some analysis on specific entities in a dataset, but its equally difficult to generalize the same for each and every entity in the dataset.
